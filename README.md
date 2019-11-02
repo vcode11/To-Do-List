@@ -1,6 +1,6 @@
 # To-Do-List
 ### A simple to-do list app using flask.<br>
-This is a simple basic flask to do list app. <br>
+This is a simple basic flask To-Do list app. <br>
 I have used SQLalchemy as flask database extension.<br>
 Installation Instructions:
 ```bash
