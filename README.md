@@ -1,5 +1,5 @@
 # To-Do-List
-A simple to-do list app using flask.<br>
+### A simple to-do list app using flask.<br>
 This is a simple basic flask to do list app. <br>
 I have used SQLalchemy as flask database extension.<br>
 Installation Instructions:
@@ -17,3 +17,4 @@ cd To-Do-List
 . venv/bin/activate
 python app.py
 ```
+Pull Requests are welcome. Please open issues before submitting PRs.
