@@ -17,6 +17,9 @@ class Todo(db.Model):
     def __repr__(self):
         return f'Task {self.id}'
 
+@app.before_first_request
+def create_tables():
+    db.create_all()
 @app.route('/', methods=['POST', 'GET'])
 def index():
     if request.method == 'POST':
