@@ -17,4 +17,4 @@ cd To-Do-List
 . venv/bin/activate
 python app.py
 ```
-Pull Requests are welcome. Please open issues before submitting PRs.
+Pull Requests are Welcome.Kindly open issues before submitting PRs.
